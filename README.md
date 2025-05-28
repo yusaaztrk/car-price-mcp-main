@@ -1,4 +1,5 @@
 # Car Price MCP Server
+[![smithery badge](https://smithery.ai/badge/@yusaaztrk/car-price-mcp-main)](https://smithery.ai/server/@yusaaztrk/car-price-mcp-main)
 
 A Model Context Protocol (MCP) server that provides Brazilian vehicle price information using FIPE API.
 
@@ -48,6 +49,15 @@ Get vehicles by type.
 
 ## Installation
 
+### Installing via Smithery
+
+To install car-price-mcp-main for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@yusaaztrk/car-price-mcp-main):
+
+```bash
+npx -y @smithery/cli install @yusaaztrk/car-price-mcp-main --client claude
+```
+
+### Manual Installation
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
