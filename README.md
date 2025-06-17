@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yusaaztrk-car-price-mcp-main-badge.png)](https://mseep.ai/app/yusaaztrk-car-price-mcp-main)
+
 # Car Price MCP Server
 
 A Model Context Protocol (MCP) server that provides Brazilian vehicle price information using FIPE API.
